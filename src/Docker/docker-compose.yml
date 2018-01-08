@@ -4,5 +4,5 @@ services:
   samplewebservice:
     image: samplewebservice
     build:
-      context: .
+      context: ../
       dockerfile: SampleWebService/Dockerfile
