@@ -1,0 +1,4 @@
+* Install .Net Core 2
+* Upgrade Visual Studio 2017 to latest
+* Docker for Windows: running in Linux mode
+* Share drives (conatining code) in Docker configuration

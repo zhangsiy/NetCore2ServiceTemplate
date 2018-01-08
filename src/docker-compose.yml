@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  samplewebservice:
+    image: samplewebservice
+    build:
+      context: .
+      dockerfile: SampleWebService/Dockerfile
